@@ -16,7 +16,7 @@ Video Downloader adalah proyek open-source yang memungkinkan Anda untuk mendownl
 ## 📄 Instalasi  
 1. Clone repositori ini:  
    ```bash  
-   git clone https://github.com/RAMALANHEKING99/Video-downloader-YouTube-tiktok-dan-videy-/new/main?filename=README.md  
+   git clone https://github.com/RAMALANHEKING99/Video-downloader-YouTube-tiktok-dan-videy-.git
    cd video-downloader  
    ```  
 2. Instal dependensi:  ("obsonal")
